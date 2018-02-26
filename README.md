@@ -27,7 +27,7 @@ For citizens of the United States that wish to stay informed on the actions and 
 *  See instagram feeds
 *  See twitter feeds
 *  See news articles feed
-* See relection
+* See releection
 * See recent vote positions
 *  See bills introduced/contributed to
 
@@ -38,6 +38,14 @@ For citizens of the United States that wish to stay informed on the actions and 
     - AWS RDS database (PostgreSQL)
 * Internet Access
 * AWS mobile backend
+
+## Risks
+
+*  Must learn Swift
+* Must learn the iOS Development Framework/XCode
+* Need to be familiarized with the  Instagram, Google News, Twitter, and ProPublica Congress APIs
+* Must learn about AWS and how to deploy an iOS app with backend
+
 
 
 
