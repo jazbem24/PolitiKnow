@@ -2,7 +2,7 @@
 ### Motto: *"Know what they don't want you to know"*
 
 * Contributor/Author: Jazmin Bembry
-*Visual Studio Teams Services Backlog:(https://bembry-individual-project.visualstudio.com/bembry-individual-project)
+* Visual Studio Teams Services Backlog:(https://bembry-individual-project.visualstudio.com/bembry-individual-project)
 
 ## Vision Statement
 
