@@ -1,5 +1,6 @@
 ## About PolitiKnow
 ### Motto: *"Know what they don't want you to know"*
+### Theme Song: [Lemon Instrumental](https://www.youtube.com/watch?v=90CCceLhX10)
 
 * Contributor/Author: Jazmin Bembry
 * Visual Studio Teams Services Backlog:(https://bembry-individual-project.visualstudio.com/bembry-individual-project)
@@ -45,6 +46,7 @@ For citizens of the United States that wish to stay informed on the actions and 
 * Must learn the iOS Development Framework/XCode
 * Need to be familiarized with the  Instagram, Google News, Twitter, and ProPublica Congress APIs
 * Must learn about AWS and how to deploy an iOS app with backend
+
 
 
 
