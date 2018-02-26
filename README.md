@@ -19,6 +19,26 @@ For citizens of the United States that wish to stay informed on the actions and 
 *  Users can see feed of news articles about their reps/senators
 *  Users can see how their senators/reps vote positions?
 
+## Requirements
+
+* Able to search on zip code
+    * Can only search by district from ProPublica Congress API
+    * Must find all zips under a district (table in database?)
+*  See instagram feeds
+*  See twitter feeds
+*  See news articles feed
+* See relection
+* See recent vote positions
+*  See bills introduced/contributed to
+
+## Non-Functional Requirements
+
+* iPhone (iOS touch-screen mobile device)
+* Database
+    - AWS RDS database (PostgreSQL)
+* Internet Access
+* AWS mobile backend
+
 
 
 
