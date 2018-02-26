@@ -9,3 +9,18 @@
 For citizens of the United States that wish to stay informed on the actions and views of congress, PolitiKnow is an iOS mobile app that allows users to find their senators and representatives based on zip code. Once a user has found his or her representatives and senators, the user can then see the selected officials’ twitter and Instagram feeds, reelection time, recent bills contributed to, and a feed of recent articles relating to the official from thousands of different news sources. PolitiKnow saves citizens time by consolidating all the information about select members of congress one would wish to see, and even includes news articles that a senator or representative would not typically publicize.  Unlike apps like Countable, PolitiKnow has an easy to use interface and design that will make it easy for users to get all the information they would need on who is representing them.
 
 
+## Needs And Features
+
+*  User able to find reps/senators by zip code
+*  Users can see twitter feed of their reps/senators
+*  Users can see Instagram feed of their reps/senators
+*  Users can see when reps/senators are up for reelection
+*  Users can see recent bills introduced or updated by their reps/senators
+*  Users can see feed of news articles about their reps/senators
+*  Users can see how their senators/reps vote positions?
+
+
+
+
+
+
