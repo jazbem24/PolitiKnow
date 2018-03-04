@@ -1,0 +1,559 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F1A769DE204C812000FCD817 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A769DD204C812000FCD817 /* AppDelegate.swift */; };
+		F1A769E0204C812000FCD817 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A769DF204C812000FCD817 /* ViewController.swift */; };
+		F1A769E3204C812000FCD817 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A769E1204C812000FCD817 /* Main.storyboard */; };
+		F1A769E5204C812000FCD817 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1A769E4204C812000FCD817 /* Assets.xcassets */; };
+		F1A769E8204C812000FCD817 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A769E6204C812000FCD817 /* LaunchScreen.storyboard */; };
+		F1A769F3204C812000FCD817 /* PolitiKnowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A769F2204C812000FCD817 /* PolitiKnowTests.swift */; };
+		F1A769FE204C812000FCD817 /* PolitiKnowUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A769FD204C812000FCD817 /* PolitiKnowUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F1A769EF204C812000FCD817 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1A769D2204C812000FCD817 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F1A769D9204C812000FCD817;
+			remoteInfo = PolitiKnow;
+		};
+		F1A769FA204C812000FCD817 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1A769D2204C812000FCD817 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F1A769D9204C812000FCD817;
+			remoteInfo = PolitiKnow;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F1A769DA204C812000FCD817 /* PolitiKnow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PolitiKnow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1A769DD204C812000FCD817 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F1A769DF204C812000FCD817 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F1A769E2204C812000FCD817 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F1A769E4204C812000FCD817 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F1A769E7204C812000FCD817 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F1A769E9204C812000FCD817 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1A769EE204C812000FCD817 /* PolitiKnowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PolitiKnowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1A769F2204C812000FCD817 /* PolitiKnowTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolitiKnowTests.swift; sourceTree = "<group>"; };
+		F1A769F4204C812000FCD817 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1A769F9204C812000FCD817 /* PolitiKnowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PolitiKnowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1A769FD204C812000FCD817 /* PolitiKnowUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolitiKnowUITests.swift; sourceTree = "<group>"; };
+		F1A769FF204C812000FCD817 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F1A769D7204C812000FCD817 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1A769EB204C812000FCD817 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1A769F6204C812000FCD817 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F1A769D1204C812000FCD817 = {
+			isa = PBXGroup;
+			children = (
+				F1A769DC204C812000FCD817 /* PolitiKnow */,
+				F1A769F1204C812000FCD817 /* PolitiKnowTests */,
+				F1A769FC204C812000FCD817 /* PolitiKnowUITests */,
+				F1A769DB204C812000FCD817 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F1A769DB204C812000FCD817 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F1A769DA204C812000FCD817 /* PolitiKnow.app */,
+				F1A769EE204C812000FCD817 /* PolitiKnowTests.xctest */,
+				F1A769F9204C812000FCD817 /* PolitiKnowUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F1A769DC204C812000FCD817 /* PolitiKnow */ = {
+			isa = PBXGroup;
+			children = (
+				F1A769DD204C812000FCD817 /* AppDelegate.swift */,
+				F1A769DF204C812000FCD817 /* ViewController.swift */,
+				F1A769E1204C812000FCD817 /* Main.storyboard */,
+				F1A769E4204C812000FCD817 /* Assets.xcassets */,
+				F1A769E6204C812000FCD817 /* LaunchScreen.storyboard */,
+				F1A769E9204C812000FCD817 /* Info.plist */,
+			);
+			path = PolitiKnow;
+			sourceTree = "<group>";
+		};
+		F1A769F1204C812000FCD817 /* PolitiKnowTests */ = {
+			isa = PBXGroup;
+			children = (
+				F1A769F2204C812000FCD817 /* PolitiKnowTests.swift */,
+				F1A769F4204C812000FCD817 /* Info.plist */,
+			);
+			path = PolitiKnowTests;
+			sourceTree = "<group>";
+		};
+		F1A769FC204C812000FCD817 /* PolitiKnowUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F1A769FD204C812000FCD817 /* PolitiKnowUITests.swift */,
+				F1A769FF204C812000FCD817 /* Info.plist */,
+			);
+			path = PolitiKnowUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F1A769D9204C812000FCD817 /* PolitiKnow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F1A76A02204C812000FCD817 /* Build configuration list for PBXNativeTarget "PolitiKnow" */;
+			buildPhases = (
+				F1A769D6204C812000FCD817 /* Sources */,
+				F1A769D7204C812000FCD817 /* Frameworks */,
+				F1A769D8204C812000FCD817 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PolitiKnow;
+			productName = PolitiKnow;
+			productReference = F1A769DA204C812000FCD817 /* PolitiKnow.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F1A769ED204C812000FCD817 /* PolitiKnowTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F1A76A05204C812000FCD817 /* Build configuration list for PBXNativeTarget "PolitiKnowTests" */;
+			buildPhases = (
+				F1A769EA204C812000FCD817 /* Sources */,
+				F1A769EB204C812000FCD817 /* Frameworks */,
+				F1A769EC204C812000FCD817 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F1A769F0204C812000FCD817 /* PBXTargetDependency */,
+			);
+			name = PolitiKnowTests;
+			productName = PolitiKnowTests;
+			productReference = F1A769EE204C812000FCD817 /* PolitiKnowTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F1A769F8204C812000FCD817 /* PolitiKnowUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F1A76A08204C812000FCD817 /* Build configuration list for PBXNativeTarget "PolitiKnowUITests" */;
+			buildPhases = (
+				F1A769F5204C812000FCD817 /* Sources */,
+				F1A769F6204C812000FCD817 /* Frameworks */,
+				F1A769F7204C812000FCD817 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F1A769FB204C812000FCD817 /* PBXTargetDependency */,
+			);
+			name = PolitiKnowUITests;
+			productName = PolitiKnowUITests;
+			productReference = F1A769F9204C812000FCD817 /* PolitiKnowUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F1A769D2204C812000FCD817 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Jazmin Bembry";
+				TargetAttributes = {
+					F1A769D9204C812000FCD817 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					F1A769ED204C812000FCD817 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = F1A769D9204C812000FCD817;
+					};
+					F1A769F8204C812000FCD817 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = F1A769D9204C812000FCD817;
+					};
+				};
+			};
+			buildConfigurationList = F1A769D5204C812000FCD817 /* Build configuration list for PBXProject "PolitiKnow" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F1A769D1204C812000FCD817;
+			productRefGroup = F1A769DB204C812000FCD817 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F1A769D9204C812000FCD817 /* PolitiKnow */,
+				F1A769ED204C812000FCD817 /* PolitiKnowTests */,
+				F1A769F8204C812000FCD817 /* PolitiKnowUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F1A769D8204C812000FCD817 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1A769E8204C812000FCD817 /* LaunchScreen.storyboard in Resources */,
+				F1A769E5204C812000FCD817 /* Assets.xcassets in Resources */,
+				F1A769E3204C812000FCD817 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1A769EC204C812000FCD817 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1A769F7204C812000FCD817 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F1A769D6204C812000FCD817 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1A769E0204C812000FCD817 /* ViewController.swift in Sources */,
+				F1A769DE204C812000FCD817 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1A769EA204C812000FCD817 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1A769F3204C812000FCD817 /* PolitiKnowTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1A769F5204C812000FCD817 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1A769FE204C812000FCD817 /* PolitiKnowUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F1A769F0204C812000FCD817 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F1A769D9204C812000FCD817 /* PolitiKnow */;
+			targetProxy = F1A769EF204C812000FCD817 /* PBXContainerItemProxy */;
+		};
+		F1A769FB204C812000FCD817 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F1A769D9204C812000FCD817 /* PolitiKnow */;
+			targetProxy = F1A769FA204C812000FCD817 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F1A769E1204C812000FCD817 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F1A769E2204C812000FCD817 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F1A769E6204C812000FCD817 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F1A769E7204C812000FCD817 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F1A76A00204C812000FCD817 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F1A76A01204C812000FCD817 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F1A76A03204C812000FCD817 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3J5V8Y987B;
+				INFOPLIST_FILE = PolitiKnow/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = bembry.PolitiKnow;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F1A76A04204C812000FCD817 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3J5V8Y987B;
+				INFOPLIST_FILE = PolitiKnow/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = bembry.PolitiKnow;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F1A76A06204C812000FCD817 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = PolitiKnowTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = bembry.PolitiKnowTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PolitiKnow.app/PolitiKnow";
+			};
+			name = Debug;
+		};
+		F1A76A07204C812000FCD817 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = PolitiKnowTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = bembry.PolitiKnowTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PolitiKnow.app/PolitiKnow";
+			};
+			name = Release;
+		};
+		F1A76A09204C812000FCD817 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = PolitiKnowUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = bembry.PolitiKnowUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PolitiKnow;
+			};
+			name = Debug;
+		};
+		F1A76A0A204C812000FCD817 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = PolitiKnowUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = bembry.PolitiKnowUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PolitiKnow;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F1A769D5204C812000FCD817 /* Build configuration list for PBXProject "PolitiKnow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1A76A00204C812000FCD817 /* Debug */,
+				F1A76A01204C812000FCD817 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F1A76A02204C812000FCD817 /* Build configuration list for PBXNativeTarget "PolitiKnow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1A76A03204C812000FCD817 /* Debug */,
+				F1A76A04204C812000FCD817 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F1A76A05204C812000FCD817 /* Build configuration list for PBXNativeTarget "PolitiKnowTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1A76A06204C812000FCD817 /* Debug */,
+				F1A76A07204C812000FCD817 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F1A76A08204C812000FCD817 /* Build configuration list for PBXNativeTarget "PolitiKnowUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1A76A09204C812000FCD817 /* Debug */,
+				F1A76A0A204C812000FCD817 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F1A769D2204C812000FCD817 /* Project object */;
+}
