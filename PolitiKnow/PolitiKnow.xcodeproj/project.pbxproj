@@ -10,6 +10,7 @@
 		0F8C61490132DE80141EF3CE /* Pods_PolitiKnowUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FAB8927692E2C73D5227715 /* Pods_PolitiKnowUITests.framework */; };
 		5C7A6E19FD79926D71F7C28A /* Pods_PolitiKnow.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B464D8CF44C0D6242836881 /* Pods_PolitiKnow.framework */; };
 		C2E97E00C65116D336AC0EB3 /* Pods_PolitiKnowTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 86885446870F5FEBBC646F2E /* Pods_PolitiKnowTests.framework */; };
+		F183F36A204E82120071D687 /* awsconfiguration.json in Resources */ = {isa = PBXBuildFile; fileRef = F183F369204E82120071D687 /* awsconfiguration.json */; };
 		F1A769DE204C812000FCD817 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A769DD204C812000FCD817 /* AppDelegate.swift */; };
 		F1A769E0204C812000FCD817 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A769DF204C812000FCD817 /* ViewController.swift */; };
 		F1A769E3204C812000FCD817 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A769E1204C812000FCD817 /* Main.storyboard */; };
@@ -46,6 +47,7 @@
 		A3C92BCEE67D5D6AAF9B5D23 /* Pods-PolitiKnowTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolitiKnowTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PolitiKnowTests/Pods-PolitiKnowTests.debug.xcconfig"; sourceTree = "<group>"; };
 		D3AB79B0D9F9B72736842890 /* Pods-PolitiKnowUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolitiKnowUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PolitiKnowUITests/Pods-PolitiKnowUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E70B85A34407169E3A010ACA /* Pods-PolitiKnow.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PolitiKnow.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PolitiKnow/Pods-PolitiKnow.debug.xcconfig"; sourceTree = "<group>"; };
+		F183F369204E82120071D687 /* awsconfiguration.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = awsconfiguration.json; path = ../../../../.Trash/awsconfiguration.json; sourceTree = "<group>"; };
 		F1A769DA204C812000FCD817 /* PolitiKnow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PolitiKnow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1A769DD204C812000FCD817 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F1A769DF204C812000FCD817 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 		F1A769DC204C812000FCD817 /* PolitiKnow */ = {
 			isa = PBXGroup;
 			children = (
+				F183F369204E82120071D687 /* awsconfiguration.json */,
 				F1A769DD204C812000FCD817 /* AppDelegate.swift */,
 				F1A769DF204C812000FCD817 /* ViewController.swift */,
 				F1A769E1204C812000FCD817 /* Main.storyboard */,
@@ -281,6 +284,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F183F36A204E82120071D687 /* awsconfiguration.json in Resources */,
 				F1A769E8204C812000FCD817 /* LaunchScreen.storyboard in Resources */,
 				F1A769E5204C812000FCD817 /* Assets.xcassets in Resources */,
 				F1A769E3204C812000FCD817 /* Main.storyboard in Resources */,
