@@ -1,3 +1,18 @@
-PODFILE CHECKSUM: 5248809fabdb0a4f7b4f32c51927e544374046b9
+PODS:
+  - AWSAuthCore (2.6.12):
+    - AWSCore (= 2.6.12)
+  - AWSCore (2.6.12)
+  - AWSMobileClient (2.6.12):
+    - AWSAuthCore (= 2.6.12)
+
+DEPENDENCIES:
+  - AWSMobileClient (~> 2.6.6)
+
+SPEC CHECKSUMS:
+  AWSAuthCore: 55376d5a47c2b5cefdd3f78d247e0a5496fc25c4
+  AWSCore: d0d6e4f6831754aaf98058d2306a016ae71510fe
+  AWSMobileClient: 5972fea7b8b7a9eae8790386700b8a7f330f8ee3
+
+PODFILE CHECKSUM: c283f097ae2ee2b38a05c95c0ef2f435db206ac4
 
 COCOAPODS: 1.4.0
