@@ -1,0 +1,6 @@
+framework module Pods_PolitiKnowUITests {
+  umbrella header "Pods-PolitiKnowUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
